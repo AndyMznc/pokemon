@@ -1,3 +1,3 @@
-from data import pokemon
+from data.data_pokemon import pokemon
 
 print(pokemon)
